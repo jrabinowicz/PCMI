@@ -1,0 +1,14 @@
+dataset,n,Impacto,archivo
+TB-H2-ME-AI,6,1,instancias/CMI_n6.in
+TB-H2-ME-AI,8,6,instancias/CMI_n8.in
+TB-H2-ME-AI,10,3,instancias/CMI_n10.in
+TB-H2-ME-AI,12,16,instancias/CMI_n12.in
+TB-H2-ME-AI,14,12,instancias/CMI_n14.in
+TB-H2-ME-AI,16,20,instancias/CMI_n16.in
+TB-H2-ME-AI,18,27,instancias/CMI_n18.in
+TB-H2-ME-AI,20,25,instancias/CMI_n20.in
+TB-H2-ME-AI,22,26,instancias/CMI_n22.in
+TB-H2-ME-AI,24,33,instancias/CMI_n24.in
+TB-H2-ME-AI,26,38,instancias/CMI_n26.in
+TB-H2-ME-AI,28,48,instancias/CMI_n28.in
+TB-H2-ME-AI,30,47,instancias/CMI_n30.in

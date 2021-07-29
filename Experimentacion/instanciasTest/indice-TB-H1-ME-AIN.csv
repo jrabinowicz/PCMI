@@ -1,0 +1,13 @@
+dataset,n,Impacto,archivo
+TB-H1-ME-AI,5,2,instanciasTest/CMIN_n5.in
+TB-H1-ME-AI,6,4,instanciasTest/CMIN_n6.in
+TB-H1-ME-AI,6,3,instanciasTest/CMIN_n6_2.in
+TB-H1-ME-AI,7,4,instanciasTest/CMIN_n7.in
+TB-H1-ME-AI,8,4,instanciasTest/CMIN_n8.in
+TB-H1-ME-AI,9,5,instanciasTest/CMIN_n9.in
+TB-H1-ME-AI,9,5,instanciasTest/CMIN_n9_2.in
+TB-H1-ME-AI,10,6,instanciasTest/CMIN_n10.in
+TB-H1-ME-AI,11,6,instanciasTest/CMIN_n11.in
+TB-H1-ME-AI,12,7,instanciasTest/CMIN_n12.in
+TB-H1-ME-AI,13,8,instanciasTest/CMIN_n13.in
+TB-H1-ME-AI,14,9,instanciasTest/CMIN_n14.in

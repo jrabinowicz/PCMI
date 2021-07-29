@@ -1,0 +1,14 @@
+dataset,n,Impacto,archivo
+H2,6,1,instancias/CMI_n6.in
+H2,8,6,instancias/CMI_n8.in
+H2,10,3,instancias/CMI_n10.in
+H2,12,16,instancias/CMI_n12.in
+H2,14,12,instancias/CMI_n14.in
+H2,16,20,instancias/CMI_n16.in
+H2,18,27,instancias/CMI_n18.in
+H2,20,25,instancias/CMI_n20.in
+H2,22,26,instancias/CMI_n22.in
+H2,24,33,instancias/CMI_n24.in
+H2,26,38,instancias/CMI_n26.in
+H2,28,48,instancias/CMI_n28.in
+H2,30,47,instancias/CMI_n30.in
